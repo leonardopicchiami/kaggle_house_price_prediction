@@ -13,7 +13,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 The goal of competition is to predict the sales prices the sales prices for each house. Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price.
 
-The program score is: 0.1297 - top 3% on competition's leaderboard.  
+The program score is: 0.11297 - top 3% on competition's leaderboard.  
 
 
 ## Description and Requirements ##
