@@ -20,7 +20,9 @@ The program score is: 0.11297 - top 3% on competition's leaderboard.
 
 Both for the optimization phase of features (features engineering and data tyding) and for the application of regression techniques phase is used Python 3 whith an object-oriented approach. This software was developed on Linux Mint distro and to the execute it you need to the terminal command inside the src folder:
 
-* python3 house_sales_prediction.py 
+```sh
+python house_sales_prediction.py 
+```
 
 The program will read the test and train dataset from dataset folder and save the result of prediction of the result_dataset directory.
  Moreoever, to run the program, you need the following Python 3 libraries: 
